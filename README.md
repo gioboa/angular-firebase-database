@@ -1,4 +1,6 @@
-# AngularFirebaseDatabase
+# Angular 19 + Firebase Database Starter
+
+![app screen](https://github.com/user-attachments/assets/6ec274e7-a107-4ce9-8d9a-5a314380d8e6)
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.1.
 
